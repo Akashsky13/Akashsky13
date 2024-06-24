@@ -20,8 +20,6 @@
 <p align="left"> 
   📫 How to reach me: <a href="mailto:22f3003152@ds.study.iitm.ac.in">22f3003152@ds.study.iitm.ac.in</a>
 </p>
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/@akashma21890162" target="blank">
@@ -35,8 +33,8 @@
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<h3 align="right">Languages and Tools:</h3>
+<p align="right"> 
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
   </a>
