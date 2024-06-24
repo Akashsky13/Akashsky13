@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **22f3003152@ds.study.iitm.ac.in**
 
-- <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK7l6i3bYaXZeNfJj8e-ukIsh7370QSZtEYtnXclZCQsGjlmCVukqfGD9Uc6VHjtxc8LA&usqp=CAU">
+- <img align="right" alt="coding" width="500" margin-bottom="200" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,8 +21,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akashsky13&show_icons=true&locale=en&layout=compact" alt="akashsky13" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=akashsky13&show_icons=true&locale=en&layout=compact" alt="akashsky13" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akashsky13&show_icons=true&locale=en" alt="akashsky13" /></p>
+<p><img  src="https://github-readme-stats.vercel.app/api?username=akashsky13&show_icons=true&locale=en" alt="akashsky13" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashsky13&" alt="akashsky13" /></p>
+<p><img  align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=akashsky13&" alt="akashsky13" /></p>
