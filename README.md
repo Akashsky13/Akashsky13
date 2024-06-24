@@ -1,10 +1,11 @@
 ![logo](https://github.com/Akashsky13/Akashsky13/blob/main/Blue%20Yellow%20Futuristic%20Virtual%20Technology%20Blog%20Banner.png)
-<h1 align="center">Hi 👋, I'm Akash Maurya</h1>
-<h3 align="center">A passionate software engineer from India</h3>
 
+<h1 align="center">A passionate software engineer from India</h1>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=akashsky13&label=Profile%20views&color=0e75b6&style=flat" alt="akashsky13" />
 </p>
+<img align="right" alt="coding" src="https://media.licdn.com/dms/image/C4E12AQFJimUSTnwveQ/article-cover_image-shrink_600_2000/0/1630496407547?e=2147483647&v=beta&t=gDkf8noaAvHmzwBLONSyRRvXTTbroVKtpcZ39PbSy_E">
+
 
 <p align="center">
   <a href="https://twitter.com/@akashma21890162" target="blank">
@@ -20,7 +21,6 @@
   📫 How to reach me: <a href="mailto:22f3003152@ds.study.iitm.ac.in">22f3003152@ds.study.iitm.ac.in</a>
 </p>
 
-<img align="right" alt="coding" width="500" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
