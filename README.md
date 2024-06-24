@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **22f3003152@ds.study.iitm.ac.in**
 
+- <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK7l6i3bYaXZeNfJj8e-ukIsh7370QSZtEYtnXclZCQsGjlmCVukqfGD9Uc6VHjtxc8LA&usqp=CAU">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@akashma21890162" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@akashma21890162" height="30" width="40" /></a>
